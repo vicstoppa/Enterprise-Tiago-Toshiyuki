@@ -29,9 +29,9 @@ public class Teste {
 		//em.persist(aluno);
 		//em.getTransaction().commit();
 		
-		em.getTransaction().begin();
-		em.persist(turma);
-		em.getTransaction().commit();
+		//em.getTransaction().begin();
+		//em.persist(turma);
+		//em.getTransaction().commit();
 		
 		
 				
