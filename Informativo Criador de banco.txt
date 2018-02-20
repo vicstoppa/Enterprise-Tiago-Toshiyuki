@@ -1,0 +1,13 @@
+No mesmo projeto!
+
+T_TURMA
+	cd_turma (PK) Sequence
+	*nm_turma (VARCHAR2(100))
+	*vl_turma (FLOAT)
+	*nr_total_vaga(NUMBER)
+	st_ead(NUMBER) (boolean)
+	fl_grade(BLOB) (arquivo)
+	dt_criacao(DATE)
+	ds_unidade (VARCHAR2) (Enum)
+	ds_periodo (VARCHAR2) (Enum)
+	

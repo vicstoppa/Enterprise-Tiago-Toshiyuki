@@ -25,11 +25,13 @@
 			<version>5.2.12.Final</version>
 		</dependency>
 		<dependency>
-			<groupId>oracle</groupId>
-			<artifactId>ojdbc</artifactId>
+			<groupId>com.oracle</groupId>
+			<artifactId>objdbc</artifactId>
 			<version>8</version>
 			<scope>system</scope>
-			<systemPath>D:/ojdbc8.jar</systemPath>
+			<systemPath>D:\objdbc8.jar</systemPath>
 		</dependency>
 	</dependencies>
 </project>
+
+
